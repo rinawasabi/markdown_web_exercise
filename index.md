@@ -1,5 +1,6 @@
 ## <Rina Uekusa> web exercise
 
+<br>
 
 ## **Italics and Bold** 
 Writing in Markdown is _not_ that hard!
@@ -10,6 +11,7 @@ I **will** complete these lessons!
 
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
+<br>
 
 ## **Headers** 
 # Header one
@@ -22,6 +24,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 Here's some words about the book _One Hundred Years..._.
 
+<br>
 
 ## **Links** 
 [Search for it.](www.google.com)
@@ -36,19 +39,24 @@ Well, do I have [the website for you][another fun place]!
 [a fun place]:www.zombo.com
 [another fun place]: www.stumbleupon.com
 
+<br>
 
 ## **Images** 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
-![Black cat][Black]
-![Orange cat][Orange]
+![Black cat][Black]  
+![Orange cat][Orange]  
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 
+<br>
+
 ## **Blockquotes** 
 I read this interesting quote the other day:
 > "Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
+
+<br>
 
 >Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo...
 >
@@ -56,21 +64,30 @@ I read this interesting quote the other day:
 >
 >He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.
 
+<br>
+
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!
 
+<br>
 
 ## **Lists** 
 * Flour
 * Cheese
-* Tomatoes
+* Tomatoes  
+
+<br>
 
 1. Cut the cheese
 2. Slice the tomatoes
 3. Rub the tomatoes in flour
 
+<br>
+
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
 * Dahlia (_Coreopsideae Dahlia_)
+
+<br>
 
 * Calculus
  * A professor
@@ -80,6 +97,8 @@ I read this interesting quote the other day:
  * An opera singer
  * Has white hair
  * Is possibly mentally unwell
+
+<br>
 
 1. Cut the cheese
 
@@ -91,12 +110,15 @@ I read this interesting quote the other day:
 
  For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
- 
+<br>
+
 ## **Paragraphs** 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
 To doubt they were kneeling then.  
+
+<br>
 
 1. Crack three eggs over a bowl.  
  Now, you're going to want to crack the eggs in such a way that you don't make a mess.  
