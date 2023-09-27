@@ -105,13 +105,13 @@ I read this interesting quote the other day:
 
 1. Cut the cheese
 
-Make sure that the cheese is cut into little triangles.
+ Make sure that the cheese is cut into little triangles.
 
 2. Slice the tomatoes
+ 
+ Be careful when holding the knife.
 
-Be careful when holding the knife.
-
-For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
+ For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_
 
 
 <br>
@@ -130,3 +130,4 @@ To doubt they were kneeling then.
 
 2. Pour a gallon of milk into the bowl.  
  Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
